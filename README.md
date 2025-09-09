@@ -30,3 +30,30 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+images for reference:
+
+**main page**:<br>
+<br>
+<img width="1918" height="831" alt="Capture1" src="https://github.com/user-attachments/assets/dd14eb96-1196-4301-a622-8006e7290ae5" />
+
+
+
+**searching recipes page**:<br>
+
+<br>
+<img width="1771" height="827" alt="Capture2" src="https://github.com/user-attachments/assets/93cda0e9-5311-4294-80a4-385d5e55563d" />
+
+
+**creating recipe modal**:<br>
+<br>
+<img width="501" height="808" alt="Capture3" src="https://github.com/user-attachments/assets/eeedd93c-740f-4e45-9a3c-97c77887ea6a" />
+
+
+**user's favorites page**:<br>
+
+<br>
+<img width="1534" height="411" alt="Capture4" src="https://github.com/user-attachments/assets/8e5c644d-eb6c-4653-af6e-58a7ceb70dcc" />
+
+
+
